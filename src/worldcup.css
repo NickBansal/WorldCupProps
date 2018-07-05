@@ -3,6 +3,7 @@
     border: 2px solid grey;
     border-radius: 0 0 20px 20px;
     box-shadow: 10px 10px 10px grey;
+    margin-bottom: 20px;
 }
 
 .team-img {
@@ -23,7 +24,7 @@ img {
 @media (max-width: 700px) {
     .team-section {
         width: 80%;
-        margin: 20px;
+        margin: 0 20px 20px 20px;
     }
     .team-content {
         text-align: center;

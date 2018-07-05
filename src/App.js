@@ -24,6 +24,24 @@ class App extends Component {
         img: "https://cdn1.uksoccershop.com/images/cache/1510330637-re-sweden-away-concept-front-475x0.jpg",
         desc: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
         players: ['Ibra', 'Him', 'Ovic', 'Cahill']
+      },
+      {
+        title: "England",
+        img: "https://cdn1.uksoccershop.com/images/cache/england-2016-2017-nike-home-football-kit-475x0.jpg",
+        desc: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+        players: ['Kane', 'Pickford', 'Rose', 'Cahill']
+      },
+      {
+        title: "Brazil",
+        img: "https://images.sportsdirect.com/images/products/37123413_l.jpg",
+        desc: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        players: ['Neymar', 'Firminho', 'Coutinho', 'Marcelo']
+      },
+      {
+        title: "Sweden",
+        img: "https://cdn1.uksoccershop.com/images/cache/1510330637-re-sweden-away-concept-front-475x0.jpg",
+        desc: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+        players: ['Ibra', 'Him', 'Ovic', 'Cahill']
       }
     ]
   }
