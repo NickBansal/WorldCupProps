@@ -1,0 +1,36 @@
+.team-section {
+    width: 30%;
+    border: 2px solid grey;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.team-img {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    height: 50%;
+}
+
+.team-content {
+    padding: 0 20px;
+    text-align: left;
+}
+
+
+@media (max-width: 700px) {
+    .team-section {
+        width: 80%;
+        margin: 20px;
+    }
+    .team-content {
+        text-align: center;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+}
+    
